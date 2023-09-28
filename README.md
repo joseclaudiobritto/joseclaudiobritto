@@ -21,5 +21,3 @@ I have been working with systems analysis and development since 2019.
 <a href="https://github.com/Havnaraak">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Havnaraak&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-
-![Snake animation](https://github.com/Havnaraak/Havnaraak/blob/output/github-contribution-grid-snake.svg)
