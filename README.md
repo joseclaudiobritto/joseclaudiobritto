@@ -11,9 +11,6 @@ I have been working with systems analysis and development since 2019.
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
 
-## 🔭 I’m currently working on
-
-[ToLendoMangasWebApi](https://github.com/Havnaraak/ToLendoMangasWebApi)
 
 ##
 <div>
