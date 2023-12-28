@@ -18,5 +18,5 @@ I have been working with systems analysis and development since 2019.
 </div>
 
 ## Contacts
-<a href= "https://www.linkedin.com/in/jose-britto/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a> <br/>
+<a href= "https://www.linkedin.com/in/jose-britto/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" target="_blank"/></a> <br/>
 Email: jchdb7@gmail.com
