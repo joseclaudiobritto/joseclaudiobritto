@@ -1,4 +1,3 @@
-# 👋 Hello! Welcome to my Github profile.
 ## My name is José Britto, but can call me Britto!
 
 I have been working with systems analysis and development since 2019.
@@ -17,3 +16,7 @@ I have been working with systems analysis and development since 2019.
 <a href="https://github.com/Havnaraak">
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Havnaraak&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
+## Contacts
+<a href= "https://www.linkedin.com/in/jose-britto/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/></a> <br/>
+Email: jchdb7@gmail.com
