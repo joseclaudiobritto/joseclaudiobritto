@@ -1,6 +1,7 @@
 ## Bem vindo ao meu GitHub, me chamo José.
 
 Trabalho com análise e desenvolvimento de sistemas desde 2021.
+Atuo como desenvolvedor back-end .NET
 
 ## Tecnologias Principais
 
