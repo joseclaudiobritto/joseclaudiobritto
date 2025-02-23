@@ -1,35 +1,10 @@
-## Bem vindo ao meu GitHub, me chamo José.
-
-Trabalho com análise e desenvolvimento de sistemas desde 2021.
-Atuo como desenvolvedor back-end .NET
-
-## Tecnologias Principais
-
-<div>
-  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> 
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/>
-</div>
-
-
-## Estou aprendendo atualmente
-<div>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/> 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40"/>
-</div>
-
-##
-<div alling="center">
-<a href="https://github.com/joseclaudiobritto">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseclaudiobritto&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
-## Contacts
-<a href= "https://www.linkedin.com/in/jose-britto/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" target="_blank"/>
-</a><br/>
-Email: jchdb7@gmail.com
+<h2>Welcome to My GitHub, I’m José</h2>
+<p>I’ve been working in systems analysis and development since 2019, with over five years of experience in technology. I currently serve as a Full Stack Developer at Result Consultoria Empresarial, specializing in both backend and frontend development, with a strong focus on .NET, Python, and modern web technologies. My expertise extends to Artificial Intelligence, Machine Learning, and Deep Learning, where I develop and train advanced models, including Large Language Models (LLMs), neural networks, and computer vision solutions. I also excel in low-level programming with C, C++, and Rust, enabling me to tackle complex, performance-critical applications.</p>
+<h2>Core Technologies</h2>
+<div> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blazor/blazor-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" height="40"/> </div>
+<h2>Advanced Skills & Tools</h2>
+<div> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="40" height="40"/> </div>
+<h2>Current Focus</h2>
+<p>My current focus lies in advancing my expertise in C++, neural networks, Machine Learning, and Deep Learning. I’m deeply engaged in developing and optimizing high-performance systems and training cutting-edge models, including Large Language Models (LLMs), to drive innovative AI solutions.</p>
+<h2>Contact</h2>
+<a href="https://www.linkedin.com/in/jose-britto/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40" target="_blank"/> </a><br/> Email: jchdb7@gmail.com
