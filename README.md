@@ -25,7 +25,7 @@ Atuo como desenvolvedor back-end .NET
 ##
 <div alling="center">
 <a href="https://github.com/joseclaudiobritto">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Havnaraak&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joseclaudiobritto&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
 ## Contacts
